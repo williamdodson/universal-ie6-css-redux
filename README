@@ -24,25 +24,25 @@ as up-to-date with the original as possible.
 Experimental: 
 This will contain my revised version of the original stylesheet which uses 
 some different typographical choices and also adds declarations for new HTML5 
-elements like article, section, aside, and header. Master will be used for 
-trying out any new experimental features before merging them into the stable 
-release branch.
+elements like article, section, aside, and header. This branch will be used 
+for trying out any new experimental features before merging them into the 
+stable *master* branch.
 
 -----------------------------------------------------------------------------
 
 Master: 
 The default branch will be used for a stable, up-to-date version of merged 
-experiments from experimental and any new updates from Andy Clark's version.
+experiments from *experimental* and any new updates from Andy Clark's version.
 
 -----------------------------------------------------------------------------
 
 -- Notes:
    
-At the time of this writing there is no Subversion access for this project, 
-which means you can essentially think of the *original* branch as a Git-based 
-port for Andy's work on Google Code. So if you prefer to use Andy's original, 
-unmodified version of the code then you want to track the *original* branch 
-instead of tracking what I'm doing in the *master* branch.
+At the time of this writing there is no Subversion access for this project on
+Google Code, which means you can essentially think of the *original* branch 
+as a Git-based port for Andy's work on Google Code. So if you prefer to use 
+Andy's original, unmodified version of the code then you want to track the 
+*original* branch instead of tracking what I'm doing in the *master* branch.
 
 =============================================================================
 Original License:
